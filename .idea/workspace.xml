@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2508cf11-5d23-48e6-a551-a7f822a1d1b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PygameProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsableTechnickFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crop_image (for developer).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Boost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Charge_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Charge_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Damage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Destroyed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Evasion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Turn_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Fighter/Turn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/Explosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_med1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_med3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_small1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_small2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_tiny1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_tiny2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_med1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_med2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_small1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_small2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_tiny1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_tiny2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screensaver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprites.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GameplayScreen.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sCk6JcWxrGo0tr4o0M1Zl246Wv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.GameplayScreen.executor": "Run",
+    "Python.UsableFunctions.executor": "Run",
+    "Python.crop_image (for developer).executor": "Run",
+    "Python.screensaver.executor": "Run",
+    "Python.sprites.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/arkadij/PycharmProjects/PygameProject/data"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/Fighter" />
+      <recent name="$PROJECT_DIR$/data/Meteors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.GameplayScreen">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PygameProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GameplayScreen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PygameProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GameplayScreen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UsableTechnickFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PygameProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UsableTechnickFunctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="screensaver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PygameProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/screensaver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PygameProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sprites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GameplayScreen" />
+        <item itemvalue="Python.sprites" />
+        <item itemvalue="Python.screensaver" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.UsableTechnickFunctions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2508cf11-5d23-48e6-a551-a7f822a1d1b2" name="Changes" comment="" />
+      <created>1737966767418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737966767418</updated>
+    </task>
+    <servers />
+  </component>
+</project>
