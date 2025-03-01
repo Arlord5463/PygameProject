@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2508cf11-5d23-48e6-a551-a7f822a1d1b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PygameProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsableTechnickFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crop_image (for developer).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Attack_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Attack_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Boost.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Charge_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Charge_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Damage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Destroyed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Enemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Evasion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Move.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Turn_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Fighter/Turn_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/Explosion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_big4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_med1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_med3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_small1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_small2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_tiny1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorBrown_tiny2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_big4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_med1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_med2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_small1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_small2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_tiny1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Meteors/meteorGrey_tiny2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screensaver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +36,19 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.GameplayScreen.executor": "Run",
-    "Python.UsableFunctions.executor": "Run",
-    "Python.crop_image (for developer).executor": "Run",
-    "Python.screensaver.executor": "Run",
-    "Python.sprites.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/arkadij/PycharmProjects/PygameProject/data"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GameplayScreen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UsableFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crop_image (for developer).executor&quot;: &quot;Run&quot;,
+    &quot;Python.screensaver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sprites.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arkadij/PycharmProjects/PygameProject/data&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />

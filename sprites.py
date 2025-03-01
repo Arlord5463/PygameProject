@@ -80,7 +80,7 @@ class Asteroid(pygame.sprite.Sprite):
         super().__init__(*group)
         self.sprites = []
 
-        dyrectory = '/Users/arkadij/PycharmProjects/PygameProject/data/Meteors'
+        dyrectory = 'data/Meteors'
         files = os.listdir(dyrectory)
         images = []
         for image in files:

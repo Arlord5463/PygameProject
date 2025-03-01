@@ -12,6 +12,6 @@ def crop_center(pil_img, crop_width: int, crop_height: int) -> Image:
                          (img_height + crop_height) // 2))
 
 
-im = Image.open('/Users/arkadij/PycharmProjects/PygameProject/data/Fighter/Idle.png')
+im = Image.open('data/Fighter/Idle.png')
 im_new = crop_center(im, 100, 100)
-im_new.save('/Users/arkadij/PycharmProjects/PygameProject/data/Fighter/Idle_1.png', quality=95)
+im_new.save('data/Fighter/Idle_1.png', quality=95)
